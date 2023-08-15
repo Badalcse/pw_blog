@@ -1,0 +1,27 @@
+.blogCard{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    border-radius: 10px;
+    width: 250px;
+    width: 250px;
+    background-color: rgb(34,41,49);
+    color: white;
+    gap: 10px;
+
+
+}
+.blogCard img{
+    width: 250px;
+    width: 250px;
+    border-radius: 10px;
+}
+.blogCard h1{
+    font-size: 17px;
+}
+.blogCard button{
+    width: 220px;
+    height: 35px;
+    border: none;
+    border-radius: 10px;
+}
